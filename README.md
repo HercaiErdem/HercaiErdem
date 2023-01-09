@@ -5,4 +5,4 @@
  My hobbies include cooking 👩‍🍳, editing 💻, watching movies 🎞️. I love to cook and try dishes from world cuisines. I even have a food channel on youtube, I left the link below 🙂.
 
 - 📧 You can contact me by e-mail hercaierdem27@gmail.com and LinkedIn https://www.linkedin.com/in/hercaisevvalerdem/ 
-- 🐥 My food channel on youtube: https://www.youtube.com/@hercaierdem.
+
