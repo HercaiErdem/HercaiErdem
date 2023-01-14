@@ -7,6 +7,6 @@
 - 📧 You can contact me by e-mail hercaierdem27@gmail.com and LinkedIn https://www.linkedin.com/in/hercaisevvalerdem/ 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5280e2&height=200&section=footer&text=I+Am+Open+To+Your+New+Ideas&fontSize=30&fontAlignY=65&desc=Please%20feel%20free%20for%20sharing%20your%20opinion🙏%20&descSize=20&descAlignY=88&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5280e2&height=200&section=footer&text=I+Am+Open+To+Your+New+Ideas&fontSize=40&fontAlignY=65&desc=Please%20feel%20free%20for%20sharing%20your%20opinion🙏%20&descSize=20&descAlignY=88&animation=twinkling"/>
 </div>
 
