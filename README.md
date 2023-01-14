@@ -1,4 +1,4 @@
-## Hi there, I am Hercai Sevval Erdem 
+## Hi there! I am Hercai Sevval Erdem 👋 
 
  🙋‍♀️ I'm Full Stack Automation Engineer.  I'm working on a project with framework TestNG and Cucumber BDD. I have experience with Agile Methodology, Black Testing, Core Java, Selenium WebDriver, Git/Github, Jira-Xray, API/Postman, and Jenkins. 
  
