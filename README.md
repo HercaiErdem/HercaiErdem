@@ -16,7 +16,12 @@
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="43" height="42"/></a>
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
- 
+ <!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
+<!-- IntelliJ -->
+<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a> 
 
 ### 📫 How To Reach Me: 
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
