@@ -16,9 +16,12 @@
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
  <!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="38"/> </a> 
+ <!-- SQL -->
+ <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a> 
- <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="40" height="40"/> </a>
+ <!-- API -->
+<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="50" height="40"/> </a>
  <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>
 <!-- Swagger -->
@@ -37,7 +40,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
  <!-- VS Code -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="50" height="40"/> </a>
 </p>
 
  
