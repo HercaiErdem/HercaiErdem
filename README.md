@@ -3,8 +3,11 @@
  🙋‍♀️ I'm Full Stack Automation Engineer.  I'm working on a project with framework TestNG and Cucumber BDD. I have experience with Agile Methodology, Black Testing, Core Java, Selenium WebDriver, Git/Github, Jira-Xray, API/Postman, and Jenkins. 
  
  🙋‍♀️ My hobbies include cooking 👩‍🍳, editing 💻, watching movies 🎞️. I love to cook and try dishes from world cuisines. 
+ 
+ <h2 align="left">Tech Stack:</h2>
+<p align="left">
 
-### 📫 How To Reach Me 
+### 📫 How To Reach Me: 
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
