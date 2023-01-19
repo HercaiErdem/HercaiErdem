@@ -22,6 +22,7 @@
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgresql" width="40" height="40"/> </a> 
+ <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
 
 ### 📫 How To Reach Me: 
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
