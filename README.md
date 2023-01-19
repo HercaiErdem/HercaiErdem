@@ -4,7 +4,7 @@
  
  🙋‍♀️ My hobbies include cooking 👩‍🍳, editing 💻, watching movies 🎞️. I love to cook and try dishes from world cuisines. 
  
- <h2 align="left">Tech Stack:</h2>
+ <h2 align="left"> 👩‍💻 Tech Stack:</h2>
 <p align="left">
  <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a>
