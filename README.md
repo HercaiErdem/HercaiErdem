@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
- 
+ </p>
  <img align=in the middle width=285 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" />
 <!--
 <div align="center">
