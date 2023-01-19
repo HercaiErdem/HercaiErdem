@@ -54,3 +54,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5280e2&height=200&section=footer&text=I+Am+Open+To+Your+New+Ideas&fontSize=40&fontAlignY=65&desc=Please%20feel%20free%20for%20sharing%20your%20opinion🙏%20&descSize=20&descAlignY=88"/>
 </div>
 -->
+ <img align=in the middle width=285 src="https://github.com/HercaiErdem/HercaiErdem/blob/main/3ee1d196a1548df00e138154961a4be5.gif" />
