@@ -36,6 +36,7 @@
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>  
 </p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 
 ### 📫 How To Reach Me: 
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
