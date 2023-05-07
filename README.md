@@ -48,7 +48,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </p>
 
- <h2 align="left"> 📫 How To Reach Me:</h2>
+ <h2 align="left"> 📫 How To Reach Me</h2>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/hercaisevvalerdem/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
