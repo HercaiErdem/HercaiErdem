@@ -18,6 +18,8 @@
  <a href="https://www.atlassian.com/software/trello" target="_blank" rel="noreferrer"> <img src="https://www.girisimhaberleri.com/wp-content/uploads/2021/12/trello_rvna.png" alt="trello" width="60" height="40"/> </a>
  <!-- IntelliJ -->
 <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> </a>
+ <!-- Cypress -->
+ <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="cypress" width="40" height="40"/> </a> 
  <!-- Selenium -->
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
