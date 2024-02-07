@@ -47,6 +47,9 @@
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="44" height="43"/></a>
  <!-- VS Code -->
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="css" width="44" height="43"/></a>
+
+  
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </p>
 
