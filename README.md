@@ -49,8 +49,6 @@
  <!-- VS Code -->
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="css" width="44" height="43"/></a>
 
-  
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </p>
 
  <h2 align="left"> 📫 How To Reach Me</h2>
